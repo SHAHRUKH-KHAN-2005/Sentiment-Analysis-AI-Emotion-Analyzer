@@ -146,8 +146,9 @@ Installation
 
 Clone or download this repository:
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_PROJECT_FOLDER>
+git clone https://github.com/SHAHRUKH-KHAN-2005/Sentiment-Analysis-AI-Emotion-Analyzer
+
+cd AI and ML Projects
 
 (Recommended) Create and activate a virtual environment:
 
